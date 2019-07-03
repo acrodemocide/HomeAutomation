@@ -1,0 +1,14 @@
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.csprojAssemblyReference.cache
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.csproj.CoreCompileInputs.cache
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.RazorAssemblyInfo.cache
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.RazorAssemblyInfo.cs
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.AssemblyInfoInputs.cache
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.AssemblyInfo.cs
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/bin/Debug/netcoreapp2.2/homeAutomationApi.deps.json
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/bin/Debug/netcoreapp2.2/homeAutomationApi.runtimeconfig.json
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/bin/Debug/netcoreapp2.2/homeAutomationApi.runtimeconfig.dev.json
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/bin/Debug/netcoreapp2.2/homeAutomationApi.dll
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/bin/Debug/netcoreapp2.2/homeAutomationApi.pdb
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.RazorTargetAssemblyInfo.cache
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.dll
+/home/baseubuntu/Desktop/homeautomation/homeAutomationApi/obj/Debug/netcoreapp2.2/homeAutomationApi.pdb
