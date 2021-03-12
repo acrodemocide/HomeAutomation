@@ -36,6 +36,6 @@
     "eslint-config-prettier": "^4.2.0",
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.17.0",
-    "react-dev-utils": "^9.0.0"
+    "react-dev-utils": "^11.0.4"
   }
 }
